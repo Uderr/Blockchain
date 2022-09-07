@@ -1,0 +1,4 @@
+1) Quando compri si triggera più volte 
+- Owner cambiare: o togli le schede a 0 oppure mettiamo true/false riguardo l'arrivo
+3) Creare log sicuri riguardo l'acquisto (tipo che checki su etherscan)
+4) ???
